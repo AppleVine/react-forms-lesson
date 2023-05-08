@@ -1,5 +1,6 @@
 {
   "name": "react-forms-lesson",
+  "homepage": "https://applevine.github.io/react-forms-lesson/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
